@@ -28,14 +28,5 @@ with emphasis on secure and scalable architectures.
 - Cisco Packet Tracer
 - Draw.io (network diagrams)
 
-## Repository Structure
 
-azure-cloud-network-security-labs/
-│
-├── 01-network-fundamentals/
-├── 02-azure-vnet-basics/
-├── 03-network-security/
-├── 04-vpn-and-hybrid/
-├── 05-linux-networking/
-└── diagrams/
 
